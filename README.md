@@ -1,7 +1,8 @@
 # About
-This is based on [Catppuccin's papirus-folders](https://github.com/catppuccin/papirus-folders)
+This is based on [Catppuccin's papirus-folders](https://github.com/catppuccin/papirus-folders) for Sainnhe's [Edge Colorscheme](https://github.com/sainnhe/edge)
 
 | Red | Yellow | Green | Cyan | Blue | Purple |
+|:---:|:------:|:-----:|:----:|:----:|:------:|
 |![Red](src/64x64/places/user-edge-red-home.svg)|![Yellow](src/64x64/places/user-edge-yellow-home.svg)|![Green](src/64x64/places/user-edge-green-home.svg)|![Cyan](src/64x64/places/user-edge-cyan-home.svg)|![Blue](src/64x64/places/user-edge-blue-home.svg)|![Purple](src/64x64/places/user-edge-purple-home.svg)|
 
 # Install
