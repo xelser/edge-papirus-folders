@@ -14,15 +14,16 @@ git clone https://github.com/xelser/edge-papirus-folders && cd edge-papirus-fold
 ```
 3. Copy content of `src` to Papirus Directory:
 ```sh
-sudo cp -r src/* /usr/share/icons/Papirus # if installed in the root
+sudo cp -r src/* /usr/share/icons/Papirus/ # if installed in the root
 ```
 ```sh
-cp -r src/* $HOME/.local/share/icons/Papirus # if installed in $HOME
+cp -r src/* $HOME/.local/share/icons/Papirus/ # if installed in $HOME
 ```
 4. Use modified `papirus-folders` script to set colors of folders.
 ```sh
 ./papirus-folders -C edge-blue --theme Papirus-Dark
 ```
+> all available colors are: `red`, `yellow`, `cyan`, `green`, `blue`, `purple`
 #### Visit [Papirus-folders](https://github.com/PapirusDevelopmentTeam/papirus-folders) and [Catppuccin Papirus-Folders](https://github.com/catppuccin/papirus-folders) to learn more about this script
 
 # Credits
