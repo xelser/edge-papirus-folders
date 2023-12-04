@@ -1,5 +1,5 @@
 # About
-This is based on [Catppuccin's papirus-folders](https://github.com/catppuccin/papirus-folders) for Sainnhe's [Edge Colorscheme](https://github.com/sainnhe/edge)
+This is based on Catppuccin's [papirus-folders](https://github.com/catppuccin/papirus-folders) for Sainnhe's [Edge Colorscheme](https://github.com/sainnhe/edge)
 
 | Red | Yellow | Green | Cyan | Blue | Purple |
 |:---:|:------:|:-----:|:----:|:----:|:------:|
@@ -23,7 +23,7 @@ cp -r src/* $HOME/.local/share/icons/Papirus/ # if installed in $HOME
 ```sh
 ./papirus-folders -C edge-blue --theme Papirus-Dark
 ```
-> all available colors are: `red`, `yellow`, `cyan`, `green`, `blue`, `purple`
+Available colors are: `edge-red`, `edge-yellow`, `edge-cyan`, `edge-green`, `edge-blue`, `edge-purple`
 #### Visit [Papirus-folders](https://github.com/PapirusDevelopmentTeam/papirus-folders) and [Catppuccin Papirus-Folders](https://github.com/catppuccin/papirus-folders) to learn more about this script
 
 # Credits
