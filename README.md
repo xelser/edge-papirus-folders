@@ -6,7 +6,7 @@ This is based on Catppuccin's [papirus-folders](https://github.com/catppuccin/pa
 |![Red](src/64x64/places/user-edge-red-home.svg)|![Yellow](src/64x64/places/user-edge-yellow-home.svg)|![Green](src/64x64/places/user-edge-green-home.svg)|![Cyan](src/64x64/places/user-edge-cyan-home.svg)|![Blue](src/64x64/places/user-edge-blue-home.svg)|![Purple](src/64x64/places/user-edge-purple-home.svg)|
 
 # Install
-1. Make sure You have [Papirus Icon Theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) installed
+1. Make sure you have [Papirus Icon Theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) installed
 2. Clone this repository and change to cloned directory:
 
 ```sh
@@ -30,6 +30,7 @@ Available colors are: `edge-red`, `edge-yellow`, `edge-cyan`, `edge-green`, `edg
 - [Catppuccin's Papirus Folders](https://github.com/catppuccin/papirus-folders)
 - [Papirus Team](https://github.com/PapirusDevelopmentTeam)
 - [Edge Colorscheme](https://github.com/sainnhe/edge)
+- [Atom's One Dark](https://github.com/atom/atom/tree/master/packages/one-dark-syntax)
 
 This project wouldn't be possible without any of the above. Show them great support :heart:
 
